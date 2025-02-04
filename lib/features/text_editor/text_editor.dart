@@ -79,7 +79,7 @@ class TextEditorState extends State<TextEditor>
 
   late double _fontScale;
 
-  Color _primaryColor = Colors.black;
+  Color _primaryColor = Colors.yellow;
 
   /// Gets the primary color.
   Color get primaryColor => _primaryColor;
